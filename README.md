@@ -3,6 +3,7 @@
 ## This is the pandas lecture for the Modern Programming for Data Analytics Course
 
 You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/Pandas/](https://cmu-ms-das-modern-programming-mini.github.io/Pandas/)
+
 The presentation is created with reveal.js
 
 The pandas Examples Notebook can be accessed at: https://mybinder.org/v2/gh/CMU-MS-DAS-Modern-Programming-Mini/Pandas/main?labpath=static%2Fnotebooks%2Fpandas%20Examples.ipynb
